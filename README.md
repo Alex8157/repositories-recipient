@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# GitHub Pages
+Посмотреть на работу проекта вы можете по [ссылке](https://alex8157.github.io/repositories-recipient/).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
